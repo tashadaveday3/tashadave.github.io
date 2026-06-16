@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Portfolio</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-<h1>Welcome to My Website</h1>
-<p>I built this using GitHub Pages.</p>
-
-</body>
-</html>
+body {
+  font-family: Arial;
+  text-align: center;
+  margin-top: 50px;
+}
